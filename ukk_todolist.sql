@@ -87,8 +87,6 @@ CREATE TABLE `users` (
 INSERT INTO `users` (`id`, `name`, `email`, `password`, `created_at`) VALUES
 (1, 'test', 'test@gmail.com', '$2b$10$nEys7d.4pHsm6dsPCpAj/eVBuvMZuB2kbBAmDClPro886BpN3TbJW', '2025-11-28 15:35:39'),
 (2, 'aku', 'aku@gmail.com', '$2b$10$/sZELSneQ57G4yfiGRj4R.qPSGDEjp.rZZQOk2mGr0xLtoy5/NkOK', '2025-11-29 01:49:09'),
-(3, 'epep', 'epep@gmail.com', '$2b$10$t1HoMl6OwYahK2Ak.uPlGep.9SLrwMDf5doCaOnLTh6f/dRiXCUh2', '2025-11-29 06:28:04'),
-(4, 'isan', 'isan@gmail.com', '$2b$10$5/UPIRv1iURReWrskmp7NeV6sDGs8nx8gAQo5qlJ6ff2f0/wtpLhy', '2025-11-29 13:29:53');
 
 --
 -- Indexes for dumped tables
